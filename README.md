@@ -1,4 +1,4 @@
-# # Simple Firebase authentication with Redux integration for React Application
+# Simple Firebase authentication with Redux integration for React Application
 
 ## Check out my blog on how the code is setup.
 
